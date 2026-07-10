@@ -1,0 +1,6 @@
+print("Bitwise AND (a&B):",a&b) #1010 & 0100 =0000 (0)
+print("Bitwise OR (a|B):",a|b) #1010 & 0100 |0100 (14)
+print("Bitwise XOR (a^B):",a^b) #1010 & 0100 ^1110 (14)
+print("Bitwise NOT (~a):",~a) #-(10+1)= -11
+print("Left Shift(a<<1):",a<<1)#Shift bIts Left by 1(Doubles:20)
+print("Right Shift(a>>1):",a>>1)#Shift bIts Right by 1(Halves:5)
