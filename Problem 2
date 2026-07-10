@@ -1,0 +1,4 @@
+print("course:\tpython programming")
+print("topic :\\escape characters")
+print("status:\t\"completed\"")
+print("path:\tc:\\users\\python\\notes")
