@@ -1,0 +1,6 @@
+print("x is equal to y(x==y):",x==y)
+print("x is equal to y(x!=y):",x!=y)
+print("x is greater than to y(x>y):",x>y)
+print("x is less than to y(x<y):",x<y)
+print("x is  greater than or equal to y(x>=y):",x>=y)
+print("x is  less than orequal to y(x<=y):",x<=y)
