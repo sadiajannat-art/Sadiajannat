@@ -1,0 +1,6 @@
+float_num=45.78
+print("original float:", float_num)
+
+int_num = int(float_num)
+print("Converted integer:", type(int_num))
+print("new type:", type(int_num))
