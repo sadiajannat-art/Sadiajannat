@@ -1,4 +1,3 @@
-num1= int(input("enter frist number:"))
-num2= int(input("enter second number:"))
-total =num1 + num2
-print("the sum is :",total)
+print("house no: 934,Road no:01")
+print("cox's bazer,chattagram")
+print("bangladesh")
