@@ -1,5 +1,1 @@
-print("2026","07","01",sep="-")
-print("dhaka","chattagon","sylhet",sep="->")
-print("hello",end="")
-print("world",end="")
-print("welcome to python.")
+print("my name is: sadia")
