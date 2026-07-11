@@ -1,8 +1,4 @@
-print("addition(a+b):",a+b)
-print("subtraction(a-b):",a-b)
-print("multiplication(a*b):",a*b)
-print("normal division(a/b):",a/b)
-
-print("modulus/reminder(a%b):",a%b)
-print ("foolr division(a//b):",a//b)
-print ("exponention/power(a**b):",a**b)
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+product= num1 * num2
+print("The product is:",product)
