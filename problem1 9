@@ -1,0 +1,2 @@
+print("each child gets:",per_child,"chocolates")
+print("chocolates left:",remining)
