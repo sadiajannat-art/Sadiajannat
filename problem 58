@@ -1,0 +1,7 @@
+a = float(input("Enter side 1:"))
+b = float(input("Enter side 2:"))
+c = float(input("Enter side 3:"))
+if(a+b>c) and (b+c>a) and9a+c>b):
+print("vaild Trinangle! A  trinangle CAN be formed.")
+else:
+print("invaild Trinangle! A  trinangle CANNOT be formed.")
