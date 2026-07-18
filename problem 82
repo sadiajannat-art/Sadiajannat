@@ -1,0 +1,13 @@
+num =int(input("enter a number:"))
+num_str = str(sum)
+power =len(num_str)
+total_sum=0
+temp= num
+while temp>0:
+digit =temp % 10
+total_sum+= digit**power
+temp= temp//10
+if total sum==num:
+print(num,"is an armstrong number")
+else:
+print(num,"is not an armstrong numeber")
