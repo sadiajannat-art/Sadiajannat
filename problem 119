@@ -1,0 +1,8 @@
+text = "Python Programming" 
+first_word = text[0:6]   # From index 0 to 5 
+second_word = text[7:]   # From index 7 to end 
+last_chars = text[-4:]   # Last 4 characters 
+print("Original Text:", text) 
+print("First Word [0:6]:", first_word) 
+print("Second Word [7:]:", second_word) 
+print("Last 4 Chars [-4:]:", last_chars)
