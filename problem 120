@@ -1,0 +1,3 @@
+my_list = [10, 25.5, "Python", True, "sadia"] 
+print("The list is:", my_list) 
+print("Data type:", type(my_list))
