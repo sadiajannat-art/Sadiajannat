@@ -1,0 +1,6 @@
+numbers = [4,5,8,9,1,2, 9,6,7,5,4, 2,3] 
+min_val = numbers[0] 
+for num in numbers: 
+if num < min_val: 
+min_val = num 
+print("Minimum number is:", min_val) 
