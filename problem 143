@@ -1,0 +1,5 @@
+person = ("Abdur Rahman", 22, "Dhaka") 
+name, age, city = person 
+print("Name:", name) 
+print("Age:", age) 
+print("City:", city) 
