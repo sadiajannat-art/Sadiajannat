@@ -1,0 +1,10 @@
+price_table = { 
+"Laptop": 65000, 
+"Keyboard": 1200, 
+"Mouse": 450, 
+"Monitor": 14500 } 
+product = input("Enter product name (Laptop/Keyboard/Mouse/Monitor): ") 
+if product in price_table: 
+print(f"Price of {product} is: {price_table[product]} BDT") 
+else: 
+print("Product out of stock or unavailable.")
