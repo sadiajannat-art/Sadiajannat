@@ -1,0 +1,6 @@
+student = {"name": "sadia", "age": 17, "district": "chattogram", "grade": "A"} 
+print("Before deletion:", student) 
+del student["grade"] 
+removed_val = student.pop("age") 
+print("After deleting 'grade' and 'age':", student) 
+print("Removed age value:", removed_val)
