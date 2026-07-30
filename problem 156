@@ -1,0 +1,5 @@
+student = {"name": "sadia", "age": 17} 
+print("Before adding:", student) 
+student["department"] = "Computer Science" 
+student["cgpa"] = 3.85 
+print("After adding:", student)
