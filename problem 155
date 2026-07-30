@@ -1,0 +1,5 @@
+student = { "name": "Abdur Rahman", 
+"age": 22, 
+"district": "Dhaka" } 
+print("Student Dictionary:", student) 
+print("Data type:", type(student))
