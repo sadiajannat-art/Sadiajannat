@@ -1,0 +1,5 @@
+student = {"name": "sadia", "age": 17, "district": "Chattogram"} 
+print("Original Dictionary:", student) 
+student["age"] =18
+student["district"] = "Dhaka" 
+print("Updated Dictionary:", student)
