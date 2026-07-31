@@ -1,0 +1,4 @@
+def get_square(number): 
+  return number ** 2 
+res = get_square(7) 
+print("The square of 7 is:", res) 
