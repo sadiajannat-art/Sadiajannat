@@ -1,0 +1,7 @@
+try:
+    with open("my_file,txt","r")as file:
+    content= file.read()
+  print("--- file  content---")
+    print(content)
+except FileNotFoundError:
+  print("error:tHE specifiled file does not exist!")
