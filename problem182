@@ -1,0 +1,11 @@
+students =[
+    {"roll": 1, "name": "marua", "gpa": 3.30}'
+    {"roll": 1, "name": "tasfiya", "gpa": 3.50}'
+    {"roll": 1, "name": "sadia", "gpa":  3.80}'
+    ]
+    with open("students.txt", "w") as file:
+        file.write{"roll | name |Gpa\n" }
+        file.write{"------------------\n"}
+        for s is student:
+             file.write(f"{s['roll']}           |{s['name']:<6}     |{s['GPa']}\n")
+      print("student recodes saveed to 'students.txt'.")       
